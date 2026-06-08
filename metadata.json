@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 鏁忓崕绔炲搧甯傚満鍒嗘瀽涓庣洃娴嬬郴缁?v1.3",
+  "description": "闈㈠悜瀹跺叿浜у搧鐮斿彂浜哄憳鐨勭珵鍝佸垎鏋愪笌鐩戞祴绯荤粺锛屾敮鎸佸娓犻亾鏁版嵁鎺ュ叆銆佸晢鍝佹爣鍑嗗寲銆佸缁碢K瀵规瘮涓嶢I鐮斿彂寤鸿銆?,
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
